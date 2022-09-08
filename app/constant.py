@@ -29,4 +29,4 @@ class Constant:
     OUTPUT_FOLDER = f'{settings.base_dir}/output'
 
     # Acronym MAX lenght
-    ACC_MAX_LEN = 6
+    ACC_MAX_LEN = 30
